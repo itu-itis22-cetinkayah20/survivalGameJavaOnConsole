@@ -51,7 +51,7 @@ Survival Game Java on Console is a text-based adventure game where players navig
 ### **1. Clone the repository**
 
 ```sh
-git clone https://github.com/yourusername/survivalGameJavaOnConsole.git
+git clone https://github.com/itu-itis22-cetinkayah20/survivalGameJavaOnConsole.git
 cd survivalGameJavaOnConsole
 cd SurvivalGame
 ```
